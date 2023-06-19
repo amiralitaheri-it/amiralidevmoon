@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![image](https://github.com/amiralidevmoon/amiralidevmoon/assets/77302057/3f1b3e40-fd9f-405a-bc4e-1d87b3b00919)![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Amir Ali</h1>
 <h3 align="center">A Simple Software &amp; Devops Engineer<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
@@ -11,6 +11,10 @@
 <a href="https://instagram.com/amiralidevmoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amiralidevmoon" height="30" width="40" /></a>
 <a href="https://discord.gg/wNZBRrU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wNZBRrU" height="30" width="40" /></a>
 </p>
+
+- 🔭 I’m currently working as Freelancer
+- 🌱 I’m currently concentrated on DevOps & Golang
+- 📫 How to reach me: amiralitaheridev@yahoo.com
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiralidevmoon&theme=tokyonight&show_icons=true&locale=en" alt="amiralidevmoon" /></p>
