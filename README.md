@@ -1,4 +1,4 @@
-![image](https://github.com/amiralidevmoon/amiralidevmoon/assets/77302057/3f1b3e40-fd9f-405a-bc4e-1d87b3b00919)![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Amir Ali</h1>
 <h3 align="center">A Simple Software &amp; Devops Engineer<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
