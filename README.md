@@ -1,3 +1,5 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 <h1 align="center">Hi 👋, I'm Amir Ali</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
