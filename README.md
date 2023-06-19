@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Amir Ali</h1>
-<h3 align="center">A passionate DevOps Engineer & Web Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
+<h3 align="center">Software &amp; Devops Engineer<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiralidevmoon&label=Profile%20views&color=0e75b6&style=flat" alt="amiralidevmoon" /> </p>
 
