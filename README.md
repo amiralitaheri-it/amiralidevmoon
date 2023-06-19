@@ -13,5 +13,5 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiralidevmoon&show_icons=true&locale=en" alt="amiralidevmoon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiralidevmoon&theme=tokyonight&show_icons=true&locale=en" alt="amiralidevmoon" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiralidevmoon&theme=tokyonight" alt="amiralidevmoon" /></p>
