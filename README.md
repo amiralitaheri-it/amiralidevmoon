@@ -13,7 +13,7 @@
 </p>
 
 - 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently concentrated on DevOps & Golang
+- 🌱 I’m currently concentrated on DevOps, Security & Golang
 - 📫 How to reach me: https://amiralitaheridev.ir/
 
 <h3>🚀 Some Tools I Use</h3>
